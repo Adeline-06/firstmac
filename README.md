@@ -1,2 +1,0 @@
-# firstmac
-premier repos 
